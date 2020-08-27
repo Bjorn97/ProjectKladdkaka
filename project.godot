@@ -16,7 +16,13 @@ _global_script_class_icons={
 [application]
 
 config/name="ProjectKladdkaka"
+run/main_scene="res://Scenes/Levels/TestLevel.tscn"
 config/icon="res://icon.png"
+config/version="a1.0"
+
+[autoload]
+
+Game="*res://Essentials/Game.tscn"
 
 [logging]
 
